@@ -1,4 +1,4 @@
-# smart_hospital
+# medical
 
 A new Flutter project.
 
